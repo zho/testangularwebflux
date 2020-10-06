@@ -1,2 +1,4 @@
 # testangularwebflux
-this sample demonstrate webflux with angular managed route
+based on this answer :
+
+https://stackoverflow.com/a/57603094/378731
